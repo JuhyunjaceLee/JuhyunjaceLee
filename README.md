@@ -11,7 +11,7 @@
 
 ### ABOUT ME📂
 <div>
-    <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=NOTION&logoColor=white" />
+    <a href="https://www.notion.so/Front-end-6777386ece574079a62942436de54cd0"><img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=NOTION&logoColor=white" /></a>
 </div>
 
 ### CONTACT✉️
